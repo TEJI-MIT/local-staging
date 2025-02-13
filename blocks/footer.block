@@ -1,6 +1,6 @@
 <footer class="Footer" role="contentinfo" data-controller="FooterBreakpoints">
 
-  <div class="Footer-inner clear">
+  <div class="Footer-inner clear test-border">
 
     <squarespace:block-field id="footerBlocksTop" class="Footer-blocks Footer-blocks--top sqs-alternate-block-style-container" columns="12" label="{localizedStrings.footerTopBlocks}" />
 
