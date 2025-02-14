@@ -5,12 +5,13 @@ TEJI Website is a Squarespace-based project that utilizes local development tool
 ## 🚀Quick Start
 
 ### Clone the repository
+#### SSH
 ```bash
-  #SSH
   git clone git@github.com:TEJI-MIT/local-staging.git 
-  # OR
-  
-  #HTTPS
+  ```
+#### OR
+#### HTTPS
+```bash
   git clone  https://github.com/TEJI-MIT/local-staging.git
 ```
 ### Install dependencies
